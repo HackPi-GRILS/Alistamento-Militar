@@ -1,6 +1,5 @@
 # Alistamento-Militar
-# Jokenpo_game
- <b> <h1>#  Projeto 1 - Jokenpo game </h1> </b>
+<b> <h1>#  Projeto 1 - Alistamento Militar </h1> </b>
  
  <hr size=8 width=50% align=right>
 
