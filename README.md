@@ -3,7 +3,7 @@
  
  <hr size=8 width=50% align=right>
 
- <p align="justify"> Este repositório foi criado para o desenvolvimento de um algoritmo que çeia o ano de nascimento de um jovem e informe, de acordo com sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se já passou do tempo do alistamento. O programa também deve mostrar o tempo que falta ou que já passou do prazo." </p>
+ <p align="justify"> Este repositório foi criado para o desenvolvimento de um algoritmo que leia o ano de nascimento de um jovem e informe, de acordo com sua idade, se ele ainda vai se alistar ao serviço militar, se é a hora de se alistar ou se já passou do tempo do alistamento. O programa também deve mostrar o tempo que falta ou que já passou do prazo." </p>
 
 <b> ● Linguagem utilizada: </b> Python <img width=30 height=25 src="https://images.vexels.com/media/users/3/166477/isolated/preview/9bb722f0e85ddbc1ce0f064534fd2311---cone-da-linguagem-de-programa----o-python-by-vexels.png" align ="middle">
 
